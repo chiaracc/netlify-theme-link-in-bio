@@ -40,4 +40,7 @@ I am a cognitive neuroscientist interested in the development of cognitive funct
 
 Outside of the lab, I can be found at the local park practicing acroyoga or in the countryside cycling.
 
-{style="text-align: justify; font-size: 0.5em;"}
+
+# {style="text-align: justify; font-size: 0.5em;"}
+
+{style="text-align: justify;"}
