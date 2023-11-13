@@ -19,13 +19,10 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - title: Read my latest paper on LLMs
+        - title: Read my latest paper
           icon: arxiv
-          url: https://arxiv.org/abs/2304.01852
-        - title: Watch my new YouTube video to achieve 20x productivity
-          icon: youtube
-          url: https://youtube.com
+          url: https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25684
         - title: Connect with me on LinkedIn
           icon: linkedin
-          url: https://linkedin.com
+          url: https://www.linkedin.com/in/ccaldinelli/
 ---
