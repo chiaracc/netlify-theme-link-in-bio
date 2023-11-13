@@ -5,13 +5,9 @@ title: Chiara Caldinelli
 # Name pronunciation (optional)
 name_pronunciation: Chiara Caldinelli
 
-# Full name (for SEO)
+# Full name
 first_name: Chiara
 last_name: Caldinelli
-
-# Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
