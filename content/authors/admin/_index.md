@@ -31,7 +31,7 @@ social:
     link: https://github.com/chiaracc/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: cv
-    link: static/uploads/resume.pdf
+    link: /uploads/resume.pdf
 ---
 
 Hi!
