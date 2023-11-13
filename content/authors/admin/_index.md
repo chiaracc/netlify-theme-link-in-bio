@@ -2,9 +2,6 @@
 # Display name
 title: Chiara Caldinelli
 
-# Name pronunciation (optional)
-name_pronunciation: Chiara Caldinelli
-
 # Full name
 first_name: Chiara
 last_name: Caldinelli
