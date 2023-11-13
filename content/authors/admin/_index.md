@@ -6,8 +6,8 @@ title: 吳健雄
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chiara
+last_name: Caldinelli
 
 # Status emoji
 status:
@@ -17,31 +17,32 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Trinity College Dublin
+    url: https://www.cusacklab.org
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 social:
   - icon: send
-    link: 'mailto:your-email@example.com'
+    link: 'mailto:your-caldinec@tcd.ie'
   - icon: twitter
-    link: https://twitter.com/wowchemy
+    link: https://twitter.com/chiara_cee
     label: Follow me on Twitter
   - icon: google-scholar
-    link: https://scholar.google.com/citations?user=mG4imMEAAAAJ
-  - icon: linkedin
-    link: https://www.linkedin.com/
+    link: https://scholar.google.com/citations?user=kWSu4JAAAAAJ&hl=it&oi=ao
+  - icon: github
+    link: https://github.com/chiaracc/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: cv
-    link: uploads/resume.pdf
+    link: https://drive.google.com/file/d/10KdKV3aLda0NvcMysap2ck8BkzBXaAEY/view?usp=sharing/
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi!
+
+I am a cognitive neuroscientist interested in the development of executive functions. I recently graduated from Trinity College Dublin with a PhD in Psychology. During my PhD, under the supervision of Prof. Rhodri Cusack, I studied how the areas tha in adults support higher cognition develop in the first years of life. I am a strong advocate of open science, as during my PhD I only used freely available dadasets to test my hypothesis, and I shared all my code. Before starting a PhD in Dublin I worked as a research assistant at CUBRIC, with Prof. Kim Graham. I hold a bachelor's in Cognitive Psychology and a master's in Neuropsychology and Cognitive Neuroscience from University of Padua. Outside of the lab, I can be found at the local park practicing acroyoga or in the countryside cycling.
+
 {style="text-align: justify; font-size: 0.8em;"}
