@@ -14,7 +14,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Trinity College Dublin
+  - name: Cusack Lab at Trinity College Dublin
     url: https://www.cusacklab.org
 
 # Social Networking
