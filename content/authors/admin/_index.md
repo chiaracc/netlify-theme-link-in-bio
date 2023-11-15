@@ -36,7 +36,8 @@ social:
 
 Hi!
 
-I am a cognitive neuroscientist interested in the development of cognitive functions in infancy. I recently graduated from Trinity College Dublin with a PhD in Psychology. During my PhD, under the supervision of Prof. Rhodri Cusack, I studied how the areas tha in adults support higher cognition develop in the first years of life. I am a strong advocate of open science, as during my PhD I only used freely available dadasets to test my hypothesis, and I shared all my code. Before starting a PhD in Dublin I worked as a research assistant at CUBRIC, with Prof. Kim Graham. I hold a bachelor's in Cognitive Psychology and a master's in Neuropsychology and Cognitive Neuroscience from University of Padua. 
+I am a cognitive neuroscientist interested in the development of cognitive functions in infancy. I recently graduated from Trinity College Dublin with a PhD in Psychology. 
+During my PhD, under the supervision of Prof. Rhodri Cusack, I studied how the areas that in adults support higher cognition develop in the first years of life. I am a strong advocate of open science, as during my PhD I only used freely available dadasets to test my hypothesis, and I shared all my code. Before starting a PhD in Dublin I worked as a research assistant at CUBRIC, with Prof. Kim Graham. I hold a bachelor's in Cognitive Psychology and a master's in Neuropsychology and Cognitive Neuroscience from University of Padua. 
 
 Outside of the lab, I can be found at the local park practicing acroyoga or in the countryside cycling.
 
